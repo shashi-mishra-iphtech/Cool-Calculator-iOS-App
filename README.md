@@ -20,7 +20,7 @@ The Calculator App is a simple and user-friendly calculator application for iOS 
 
 ## Installation
 
-1. Clone or download the Calculator App repository from [GitHub](IPH-Technologies-Pvt-Ltd/Calculator-App-iOS).
+1. Clone or download the Calculator App repository from [GitHub]().
 2. Open the project in Xcode.
 3. Connect your iOS device or simulator.
 4. Build and run the application.
