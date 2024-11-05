@@ -69,4 +69,4 @@ If you have any questions, issues, or suggestions regarding the Calculator App, 
 
 ## Screenshot
 
-<video src="https://github.com/user-attachments/assets/3dfada42-a20e-4fb9-8e89-0c89eed750e3" width="400"></vide>
+<video src="https://github.com/user-attachments/assets/3dfada42-a20e-4fb9-8e89-0c89eed750e3" width="400" autoplay></vide>
