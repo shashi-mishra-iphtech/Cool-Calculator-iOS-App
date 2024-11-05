@@ -68,7 +68,5 @@ The Calculator App was developed as a project for learning iOS development. We w
 If you have any questions, issues, or suggestions regarding the Calculator App, please contact www.iphtechnologies.com.
 
 ## Screenshot
-<img src="https://github.com/IPH-Technologies-Pvt-Ltd/Calculator-App-iOS/assets/94104772/3604add3-10fe-4c24-9b5c-811e1327e68c" 
-     width="400" 
-     height="750"/>
 
+<video src="https://github.com/user-attachments/assets/3dfada42-a20e-4fb9-8e89-0c89eed750e3" width="400"></vide>
